@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MNabeelAltaf
-- 👀 I’m interested in coding, developing apps, and socializing.
-- 🌱 I’m currently learning .Net Framework
+- 👀 I’m interested in Programming, Coding, Developing Apps/Websites, Exploring Machine Learning, Logic Building, and Socializing.
+- 🌱 I’m currently working on project for Blinds
 - 📫 How to reach me nabeelaltaf@outlook.com
 <!---
 MNabeelAltaf/MNabeelAltaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
