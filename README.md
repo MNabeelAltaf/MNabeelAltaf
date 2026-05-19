@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @MNabeelAltaf (nabeelaltaf@outlook.com)
-- 👀 Passionate about exploring and using the latest Web and AI tech!"
-- 🌱 I’m working on web projects related to Laravel, MERN, and Python tech.
-- 📫 How to reach me nabeelaltaf@outlook.com
-<!---
-MNabeelAltaf/MNabeelAltaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @MNabeelAltaf
+
+🚀 Full-Stack Developer crafting scalable web applications and APIs with modern tech stacks.
+
+👀 Focused on Web Development, Backend Systems, and AI-powered solutions.
+
+🛠️ Tech Stack: Laravel, MERN, NextJS, NestJs, Python (Flask), REST APIs, and automation tools.
+
+📫 Contact: nabeelaltaf@outlook.com
